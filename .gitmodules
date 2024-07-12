@@ -1,4 +1,4 @@
-[submodule "frontend-ams"]
+	[submodule "frontend-ams"]
 	path = frontend-ams
 	url = https://github.com/MohammadOsseily/frontend-ams.git
 [submodule "backend-ams"]
